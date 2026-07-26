@@ -19,7 +19,7 @@ Rules for you when writing topics:
 <!-- Replace the examples below with your real 30+ topics. Keep unchecked items above done ones. -->
 
 - [x] tip-split-fair | Tip Split Fair | Split a restaurant bill with tip, tax, and uneven shares for diners who hate mental math
-- [ ] timezone-meeting-picker | Timezone Meeting Picker | Pick a meeting hour that works across 2–6 cities without timezone confusion
+- [x] timezone-meeting-picker | Timezone Meeting Picker | Pick a meeting hour that works across 2–6 cities without timezone confusion
 - [ ] rent-vs-buy-simple | Rent vs Buy Simple | Compare renting vs buying with a plain-language monthly cost breakdown
 - [ ] focus-block-timer | Focus Block Timer | Structured work/break blocks with a calm UI for deep work sessions
 - [ ] unit-recipe-scaler | Unit Recipe Scaler | Scale any recipe up or down and convert cups/grams cleanly
