@@ -20,9 +20,6 @@ Format:
 
 <!-- Keep unchecked client demos above. Target: 30+ unchecked topics before going hands-off. -->
 
-- [x] bloom-and-stem-florist | Bloom & Stem Florist | Flower-shop storefront with seasonal bouquets, occasion collections, and WhatsApp order CTA for a neighborhood florist
-- [x] al-noor-community-mosque | Al-Noor Community Mosque | Mosque site with prayer times, weekly programs, events, and donation/contact paths for a local masjid
-- [ ] greenfield-primary-academy | Greenfield Primary Academy | Primary school site with programs, admissions inquiry, and parent-facing campus info
 - [ ] crestview-dental-studio | Crestview Dental Studio | Dental clinic site with services, smile gallery, and appointment request form
 - [ ] northshore-sneakers | Northshore Sneakers | Sneaker boutique e-commerce demo with featured drops, collections, and cart UI
 - [ ] mercy-lane-pharmacy | Mercy Lane Pharmacy | Community pharmacy site with health essentials catalog, refill CTA, and store hours
@@ -55,6 +52,10 @@ Format:
 - [ ] lakeview-public-library | Lakeview Public Library | Library site with hours, events, digital resources, and membership CTA
 - [ ] pioneer-trade-college | Pioneer Trade College | Vocational college with programs, workshops, and apply/inquire flow
 - [ ] nest-interiors-studio | Nest Interiors Studio | Interior design studio with projects gallery, process, and project inquiry
+
+- [x] bloom-and-stem-florist | Bloom & Stem Florist | Flower-shop storefront with seasonal bouquets, occasion collections, and WhatsApp order CTA for a neighborhood florist
+- [x] al-noor-community-mosque | Al-Noor Community Mosque | Mosque site with prayer times, weekly programs, events, and donation/contact paths for a local masjid
+- [x] greenfield-primary-academy | Greenfield Primary Academy | Primary school site with programs, admissions inquiry, and parent-facing campus info
 
 ## Cancelled utility backlog (do not build)
 
