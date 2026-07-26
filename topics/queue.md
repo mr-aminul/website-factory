@@ -20,7 +20,7 @@ Format:
 
 <!-- Keep unchecked client demos above. Target: 30+ unchecked topics before going hands-off. -->
 
-- [ ] bloom-and-stem-florist | Bloom & Stem Florist | Flower-shop storefront with seasonal bouquets, occasion collections, and WhatsApp order CTA for a neighborhood florist
+- [x] bloom-and-stem-florist | Bloom & Stem Florist | Flower-shop storefront with seasonal bouquets, occasion collections, and WhatsApp order CTA for a neighborhood florist
 - [ ] al-noor-community-mosque | Al-Noor Community Mosque | Mosque site with prayer times, weekly programs, events, and donation/contact paths for a local masjid
 - [ ] greenfield-primary-academy | Greenfield Primary Academy | Primary school site with programs, admissions inquiry, and parent-facing campus info
 - [ ] crestview-dental-studio | Crestview Dental Studio | Dental clinic site with services, smile gallery, and appointment request form
