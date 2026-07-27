@@ -20,7 +20,6 @@ Format:
 
 <!-- Keep unchecked client demos above. Target: 30+ unchecked topics before going hands-off. -->
 
-- [ ] northshore-sneakers | Northshore Sneakers | Sneaker boutique e-commerce demo with featured drops, collections, and cart UI
 - [ ] mercy-lane-pharmacy | Mercy Lane Pharmacy | Community pharmacy site with health essentials catalog, refill CTA, and store hours
 - [ ] harbor-light-preschool | Harbor Light Preschool | Warm preschool site with classrooms, daily rhythm, and tour booking inquiry
 - [ ] qalam-institute | Qalam Institute | Islamic education center with courses, instructors, and enrollment inquiry
@@ -56,6 +55,7 @@ Format:
 - [x] al-noor-community-mosque | Al-Noor Community Mosque | Mosque site with prayer times, weekly programs, events, and donation/contact paths for a local masjid
 - [x] greenfield-primary-academy | Greenfield Primary Academy | Primary school site with programs, admissions inquiry, and parent-facing campus info
 - [x] crestview-dental-studio | Crestview Dental Studio | Dental clinic site with services, smile gallery, and appointment request form
+- [x] northshore-sneakers | Northshore Sneakers | Sneaker boutique e-commerce demo with featured drops, collections, and cart UI
 
 ## Cancelled utility backlog (do not build)
 

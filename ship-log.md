@@ -10,3 +10,4 @@ Append one row after each successful daily run.
 | 2026-07-26 | al-noor-community-mosque | https://github.com/mr-aminul/al-noor-community-mosque | https://al-noor-community-mosque.vercel.app | Community mosque demo — prayer times, programs, events, donate/contact |
 | 2026-07-26 | greenfield-primary-academy | https://github.com/mr-aminul/greenfield-primary-academy | https://greenfield-primary-academy.vercel.app | Primary school demo — programs, admissions inquiry, campus visit info |
 | 2026-07-26 | crestview-dental-studio | https://github.com/mr-aminul/crestview-dental-studio | https://crestview-dental-studio.vercel.app | Dental clinic demo — services, smile gallery, appointment request form |
+| 2026-07-27 | northshore-sneakers | https://github.com/mr-aminul/northshore-sneakers | https://northshore-sneakers.vercel.app | Sneaker boutique demo — featured drops, shop filters, cart + pickup request |
